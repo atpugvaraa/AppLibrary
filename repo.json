@@ -1,6 +1,6 @@
 [
     {
-        "icon": "icons/AirTroller.jpeg",
+        "icon": "https://github.com/atpugvaraa/AppLibrary/blob/main/icons/AirTroller.jpeg",
         "name": "AirTroller",
         "url": "apple-magnifier://install?url=https://github.com/atpugvaraa/AppLibrary/releases/download/v1/AirTroller.tipa",
         "dev": "sourcelocation"
